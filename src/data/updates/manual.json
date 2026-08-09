@@ -1,0 +1,25 @@
+[
+  {
+    "id": "2026-08-09-morning",
+    "date": "2026-08-09",
+    "title": "Morning Brief: The 10 Production Agent Concepts for 2027",
+    "summary": "Industry has shifted from \"which LLM?\" to \"what did you build around it?\" Today we add the 10 concepts that survive contact with production — harness engineering, loop engineering, context engineering, and more.",
+    "type": "morning-brief",
+    "affectedLessons": [18, 31],
+    "highlights": [
+      "NEW: Day 31 — The 10 Production Agent Concepts (bonus lesson)",
+      "UPDATED: Day 18 MCP lesson with 2026 stateless specification",
+      "NEW: Glossary terms — Harness Engineering, Loop Engineering, Context Engineering",
+      "KEY INSIGHT: Agent = Model + Harness (the harness is where reliability lives)",
+      "INDUSTRY: Gartner warns 40%+ of agentic AI projects may be cancelled by 2027 without proper risk controls",
+      "MCP 2026-07-28: Protocol is now stateless by default — scales on ordinary load balancers"
+    ],
+    "sources": [
+      { "title": "Harness Engineering — Faros AI (2026)", "url": "https://www.faros.ai/blog/harness-engineering" },
+      { "title": "MCP Stateless Updates — Google Developers", "url": "https://developers.googleblog.com/scaling-ai-agent-infrastructure-with-the-mcp-stateless-updates/" },
+      { "title": "Agent Engineering Framework — GitHub", "url": "https://github.com/vijayptiwari/agent-engineering-framework" },
+      { "title": "Context Engineering Deep Dive — DEV Community", "url": "https://dev.to/monuminu/context-engineering-for-ai-agents-the-2026-practitioners-deep-dive-887" }
+    ],
+    "teacherNote": "The hype says \"agents make money while you sleep.\" The truth: production agents need engineering discipline. These 10 concepts are what separate demos from systems that actually ship. Study Day 31 after completing Week 3."
+  }
+]

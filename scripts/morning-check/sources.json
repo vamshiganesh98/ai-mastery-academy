@@ -1,0 +1,19 @@
+{
+  "rssFeeds": [
+    { "name": "OpenAI Blog", "url": "https://openai.com/blog/rss.xml", "category": "models" },
+    { "name": "Google Developers Blog", "url": "https://developers.googleblog.com/feeds/posts/default", "category": "infra" },
+    { "name": "LangChain Blog", "url": "https://blog.langchain.dev/rss/", "category": "frameworks" },
+    { "name": "Hugging Face Blog", "url": "https://huggingface.co/blog/feed.xml", "category": "models" }
+  ],
+  "githubRepos": [
+    { "name": "MCP Specification", "repo": "modelcontextprotocol/specification", "category": "protocols" },
+    { "name": "LangGraph", "repo": "langchain-ai/langgraph", "category": "frameworks" },
+    { "name": "OpenAI Python SDK", "repo": "openai/openai-python", "category": "tools" }
+  ],
+  "keywords": [
+    "agent", "agents", "agentic", "llm", "mcp", "rag", "langgraph", "langchain",
+    "harness", "context engineering", "prompt", "embedding", "vector", "fine-tun",
+    "guardrail", "eval", "tool call", "function calling", "gpt", "claude", "gemini",
+    "openai", "anthropic", "production", "orchestrat", "memory", "multimodal"
+  ]
+}

@@ -1,0 +1,61 @@
+[
+  {
+    "id": "2026-08-09-morning-auto",
+    "date": "2026-08-09",
+    "title": "Morning Brief: 8 AI Updates — 2026-08-09",
+    "summary": "Automated scan found 8 relevant AI engineering updates in the last 36 hours. Review the highlights and linked sources to stay current.",
+    "type": "morning-brief",
+    "affectedLessons": [
+      18,
+      15,
+      16,
+      31,
+      5
+    ],
+    "highlights": [
+      "[LangGraph] LangGraph: langgraph-checkpoint-postgres==3.1.2",
+      "[LangGraph] LangGraph: langgraph-checkpoint==4.2.0",
+      "[Google Developers Blog] Agent Plugins package your skills, tools, and more",
+      "[Google Developers Blog] Scaling AI Agent Infrastructure with the MCP Stateless updates",
+      "[Google Developers Blog] A unified API for AI model routing",
+      "[Google Developers Blog] Scaling real-time AI agents with session-aware load balancing",
+      "[Google Developers Blog] Enable on-demand expertise with Agent Skills in Genkit Go",
+      "[Google Developers Blog] Agent and Model Evaluations in Gemini Enterprise Agent Platform are now GA"
+    ],
+    "sources": [
+      {
+        "title": "LangGraph: LangGraph: langgraph-checkpoint-postgres==3.1.2",
+        "url": "https://github.com/langchain-ai/langgraph/releases/tag/checkpointpostgres%3D%3D3.1.2"
+      },
+      {
+        "title": "LangGraph: LangGraph: langgraph-checkpoint==4.2.0",
+        "url": "https://github.com/langchain-ai/langgraph/releases/tag/checkpoint%3D%3D4.2.0"
+      },
+      {
+        "title": "Google Developers Blog: Agent Plugins package your skills, tools, and more",
+        "url": "https://developers.googleblog.com/agent-plugins-package-your-skills-tools-and-more/"
+      },
+      {
+        "title": "Google Developers Blog: Scaling AI Agent Infrastructure with the MCP Stateless updates",
+        "url": "https://developers.googleblog.com/scaling-ai-agent-infrastructure-with-the-mcp-stateless-updates/"
+      },
+      {
+        "title": "Google Developers Blog: A unified API for AI model routing",
+        "url": "https://developers.googleblog.com/a-unified-api-for-ai-model-routing/"
+      },
+      {
+        "title": "Google Developers Blog: Scaling real-time AI agents with session-aware load balancing",
+        "url": "https://developers.googleblog.com/scaling-real-time-ai-agents-with-session-aware-load-balancing/"
+      },
+      {
+        "title": "Google Developers Blog: Enable on-demand expertise with Agent Skills in Genkit Go",
+        "url": "https://developers.googleblog.com/enable-on-demand-expertise-with-agent-skills-in-genkit-go/"
+      },
+      {
+        "title": "Google Developers Blog: Agent and Model Evaluations in Gemini Enterprise Agent Platform are now GA",
+        "url": "https://developers.googleblog.com/agent-and-model-evaluations-in-gemini-enterprise-agent-platform-are-now-ga/"
+      }
+    ],
+    "teacherNote": "Stay curious, stay current. Pick one item from today's brief and connect it to something you've already learned in the curriculum."
+  }
+]
