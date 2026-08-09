@@ -1,0 +1,52 @@
+name: Morning Syllabus Check
+
+on:
+  schedule:
+    - cron: '0 6 * * *'
+  workflow_dispatch:
+    inputs:
+      force:
+        description: 'Force run even if brief already published today'
+        required: false
+        default: 'false'
+
+permissions:
+  contents: write
+
+concurrency:
+  group: morning-syllabus-check
+  cancel-in-progress: false
+
+jobs:
+  morning-check:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v4
+        with:
+          token: ${{ secrets.GITHUB_TOKEN }}
+
+      - name: Setup Node.js
+        uses: actions/setup-node@v4
+        with:
+          node-version: '22'
+
+      - name: Run morning syllabus check
+        env:
+          OPENAI_API_KEY: ${{ secrets.OPENAI_API_KEY }}
+          FORCE_MORNING_CHECK: ${{ github.event.inputs.force == 'true' && '1' || '' }}
+        run: node scripts/morning-check/run.mjs
+
+      - name: Commit and push updates
+        run: |
+          git config user.name "AI Mastery Academy Bot"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+
+          if git diff --quiet && git diff --cached --quiet; then
+            echo "No curriculum changes to commit."
+            exit 0
+          fi
+
+          git add src/data/updates/auto.json scripts/morning-check/state.json
+          git commit -m "chore(academy): morning syllabus check $(date -u +%Y-%m-%d)"
+          git push
