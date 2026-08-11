@@ -1,5 +1,64 @@
 [
   {
+    "id": "2026-08-11-morning-auto",
+    "date": "2026-08-11",
+    "title": "Morning Brief: 8 AI Updates — 2026-08-11",
+    "summary": "Automated scan found 8 relevant AI engineering updates in the last 36 hours. Review the highlights and linked sources to stay current.",
+    "type": "morning-brief",
+    "affectedLessons": [
+      15,
+      16,
+      31,
+      19,
+      12
+    ],
+    "highlights": [
+      "[OpenAI Blog] What building an AI-native finance function taught me",
+      "[Hugging Face Blog] Build Low-Latency Multilingual Voice Agents: Open Weights &amp; Full Deployment Control with NVIDIA Magpie TTS",
+      "[OpenAI Blog] OpenAI’s letter to Governor Abbott on responsible AI infrastructure in Texas",
+      "[OpenAI Blog] Model ML completes finance work more efficiently with GPT-5.6 Sol",
+      "[OpenAI Blog] Expanding Daybreak as the Cyber Defense Window Narrows",
+      "[OpenAI Blog] Putting frontier cyber models in more trusted hands",
+      "[OpenAI Blog] Premium seats are coming to ChatGPT Business",
+      "[OpenAI Blog] How Zapier transformed core marketing processes with ChatGPT Work"
+    ],
+    "sources": [
+      {
+        "title": "OpenAI Blog: What building an AI-native finance function taught me",
+        "url": "https://openai.com/index/building-an-ai-native-finance-function"
+      },
+      {
+        "title": "Hugging Face Blog: Build Low-Latency Multilingual Voice Agents: Open Weights &amp; Full Deployment Control with NVIDIA Magpie TTS",
+        "url": "https://huggingface.co/blog/nvidia/magpie-tts-multilingual-voice-agents"
+      },
+      {
+        "title": "OpenAI Blog: OpenAI’s letter to Governor Abbott on responsible AI infrastructure in Texas",
+        "url": "https://openai.com/index/responsible-ai-infrastructure-texas"
+      },
+      {
+        "title": "OpenAI Blog: Model ML completes finance work more efficiently with GPT-5.6 Sol",
+        "url": "https://openai.com/index/model-ml"
+      },
+      {
+        "title": "OpenAI Blog: Expanding Daybreak as the Cyber Defense Window Narrows",
+        "url": "https://openai.com/index/expanding-daybreak-as-the-cyber-defense-window-narrows"
+      },
+      {
+        "title": "OpenAI Blog: Putting frontier cyber models in more trusted hands",
+        "url": "https://openai.com/index/putting-frontier-cyber-models-in-more-trusted-hands"
+      },
+      {
+        "title": "OpenAI Blog: Premium seats are coming to ChatGPT Business",
+        "url": "https://openai.com/index/premium-seats-chatgpt-business"
+      },
+      {
+        "title": "OpenAI Blog: How Zapier transformed core marketing processes with ChatGPT Work",
+        "url": "https://openai.com/index/zapier"
+      }
+    ],
+    "teacherNote": "Stay curious, stay current. Pick one item from today's brief and connect it to something you've already learned in the curriculum."
+  },
+  {
     "id": "2026-08-09-morning-auto",
     "date": "2026-08-09",
     "title": "Morning Brief: 8 AI Updates — 2026-08-09",
