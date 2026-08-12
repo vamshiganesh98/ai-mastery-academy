@@ -1,5 +1,39 @@
 [
   {
+    "id": "2026-08-12-morning-auto",
+    "date": "2026-08-12",
+    "title": "Morning Brief: 3 AI Updates — 2026-08-12",
+    "summary": "Automated scan found 3 relevant AI engineering updates in the last 36 hours. Review the highlights and linked sources to stay current.",
+    "type": "morning-brief",
+    "affectedLessons": [
+      15,
+      16,
+      31,
+      12,
+      26
+    ],
+    "highlights": [
+      "[OpenAI Python SDK] OpenAI Python SDK: v3.0.0",
+      "[OpenAI Python SDK] OpenAI Python SDK: v2.54.0",
+      "[LangGraph] LangGraph: langgraph==1.2.11"
+    ],
+    "sources": [
+      {
+        "title": "OpenAI Python SDK: OpenAI Python SDK: v3.0.0",
+        "url": "https://github.com/openai/openai-python/releases/tag/v3.0.0"
+      },
+      {
+        "title": "OpenAI Python SDK: OpenAI Python SDK: v2.54.0",
+        "url": "https://github.com/openai/openai-python/releases/tag/v2.54.0"
+      },
+      {
+        "title": "LangGraph: LangGraph: langgraph==1.2.11",
+        "url": "https://github.com/langchain-ai/langgraph/releases/tag/1.2.11"
+      }
+    ],
+    "teacherNote": "Stay curious, stay current. Pick one item from today's brief and connect it to something you've already learned in the curriculum."
+  },
+  {
     "id": "2026-08-11-morning-auto",
     "date": "2026-08-11",
     "title": "Morning Brief: 8 AI Updates — 2026-08-11",

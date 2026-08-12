@@ -4,8 +4,11 @@
     "gh:langchain-ai/langgraph:366982453",
     "rss:aHR0cHM6Ly9kZXZlbG9wZXJzLmdvb2ds",
     "rss:aHR0cHM6Ly9vcGVuYWkuY29tL2luZGV4",
-    "rss:aHR0cHM6Ly9odWdnaW5nZmFjZS5jby9i"
+    "rss:aHR0cHM6Ly9odWdnaW5nZmFjZS5jby9i",
+    "gh:openai/openai-python:368949570",
+    "gh:openai/openai-python:368781278",
+    "gh:langchain-ai/langgraph:368613552"
   ],
-  "lastRun": "2026-08-11T07:09:34.896Z",
-  "lastBriefDate": "2026-08-11"
+  "lastRun": "2026-08-12T07:26:40.442Z",
+  "lastBriefDate": "2026-08-12"
 }
