@@ -7,8 +7,9 @@
     "rss:aHR0cHM6Ly9odWdnaW5nZmFjZS5jby9i",
     "gh:openai/openai-python:368949570",
     "gh:openai/openai-python:368781278",
-    "gh:langchain-ai/langgraph:368613552"
+    "gh:langchain-ai/langgraph:368613552",
+    "gh:openai/openai-python:370874375"
   ],
-  "lastRun": "2026-08-14T07:26:22.350Z",
-  "lastBriefDate": "2026-08-12"
+  "lastRun": "2026-08-15T06:39:21.318Z",
+  "lastBriefDate": "2026-08-15"
 }
