@@ -1,5 +1,44 @@
 [
   {
+    "id": "2026-09-24-morning-auto",
+    "date": "2026-09-24",
+    "title": "Morning Brief: 4 AI Updates — 2026-09-24",
+    "summary": "Automated scan found 4 relevant AI engineering updates in the last 36 hours. Review the highlights and linked sources to stay current.",
+    "type": "morning-brief",
+    "affectedLessons": [
+      15,
+      16,
+      31,
+      22,
+      27
+    ],
+    "highlights": [
+      "[OpenAI Python SDK] OpenAI Python SDK: v3.19.2",
+      "[LangGraph] LangGraph: langgraph-cli==0.4.32.dev0",
+      "[OpenAI Python SDK] OpenAI Python SDK: v3.19.1",
+      "[LangGraph] LangGraph: langgraph-cli==0.4.32"
+    ],
+    "sources": [
+      {
+        "title": "OpenAI Python SDK: OpenAI Python SDK: v3.19.2",
+        "url": "https://github.com/openai/openai-python/releases/tag/v3.19.2"
+      },
+      {
+        "title": "LangGraph: LangGraph: langgraph-cli==0.4.32.dev0",
+        "url": "https://github.com/langchain-ai/langgraph/releases/tag/cli%3D%3D0.4.32.dev0"
+      },
+      {
+        "title": "OpenAI Python SDK: OpenAI Python SDK: v3.19.1",
+        "url": "https://github.com/openai/openai-python/releases/tag/v3.19.1"
+      },
+      {
+        "title": "LangGraph: LangGraph: langgraph-cli==0.4.32",
+        "url": "https://github.com/langchain-ai/langgraph/releases/tag/cli%3D%3D0.4.32"
+      }
+    ],
+    "teacherNote": "Stay curious, stay current. Pick one item from today's brief and connect it to something you've already learned in the curriculum."
+  },
+  {
     "id": "2026-09-23-morning-auto",
     "date": "2026-09-23",
     "title": "Morning Brief: 2 AI Updates — 2026-09-23",
