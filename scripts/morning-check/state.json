@@ -39,8 +39,11 @@
     "gh:langchain-ai/langgraph:395139002",
     "gh:openai/openai-python:394980404",
     "gh:langchain-ai/langgraph:394925295",
-    "gh:openai/openai-python:398410319"
+    "gh:openai/openai-python:398410319",
+    "gh:openai/openai-python:399620973",
+    "gh:openai/openai-python:399444387",
+    "gh:openai/openai-python:399383340"
   ],
-  "lastRun": "2026-09-29T12:19:23.464Z",
-  "lastBriefDate": "2026-09-29"
+  "lastRun": "2026-09-30T12:04:57.280Z",
+  "lastBriefDate": "2026-09-30"
 }
