@@ -1,5 +1,27 @@
 [
   {
+    "id": "2026-10-06-morning-auto",
+    "date": "2026-10-06",
+    "title": "Morning Brief: 1 AI Update — 2026-10-06",
+    "summary": "Automated scan found 1 relevant AI engineering update in the last 36 hours. Review the highlights and linked sources to stay current.",
+    "type": "morning-brief",
+    "affectedLessons": [
+      15,
+      16,
+      31
+    ],
+    "highlights": [
+      "[LangGraph] LangGraph: langgraph==1.2.13"
+    ],
+    "sources": [
+      {
+        "title": "LangGraph: LangGraph: langgraph==1.2.13",
+        "url": "https://github.com/langchain-ai/langgraph/releases/tag/1.2.13"
+      }
+    ],
+    "teacherNote": "Stay curious, stay current. Pick one item from today's brief and connect it to something you've already learned in the curriculum."
+  },
+  {
     "id": "2026-10-03-morning-auto",
     "date": "2026-10-03",
     "title": "Morning Brief: 1 AI Update — 2026-10-03",
