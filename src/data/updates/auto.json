@@ -1,5 +1,37 @@
 [
   {
+    "id": "2026-10-24-morning-auto",
+    "date": "2026-10-24",
+    "title": "Morning Brief: 3 AI Updates — 2026-10-24",
+    "summary": "Automated scan found 3 relevant AI engineering updates in the last 36 hours. Review the highlights and linked sources to stay current.",
+    "type": "morning-brief",
+    "affectedLessons": [
+      15,
+      16,
+      31
+    ],
+    "highlights": [
+      "[LangGraph] LangGraph: langgraph==1.2.17",
+      "[LangGraph] LangGraph: langgraph-cli==0.4.38",
+      "[LangGraph] LangGraph: langgraph-sdk==0.4.9"
+    ],
+    "sources": [
+      {
+        "title": "LangGraph: LangGraph: langgraph==1.2.17",
+        "url": "https://github.com/langchain-ai/langgraph/releases/tag/1.2.17"
+      },
+      {
+        "title": "LangGraph: LangGraph: langgraph-cli==0.4.38",
+        "url": "https://github.com/langchain-ai/langgraph/releases/tag/cli%3D%3D0.4.38"
+      },
+      {
+        "title": "LangGraph: LangGraph: langgraph-sdk==0.4.9",
+        "url": "https://github.com/langchain-ai/langgraph/releases/tag/sdk%3D%3D0.4.9"
+      }
+    ],
+    "teacherNote": "Stay curious, stay current. Pick one item from today's brief and connect it to something you've already learned in the curriculum."
+  },
+  {
     "id": "2026-10-23-morning-auto",
     "date": "2026-10-23",
     "title": "Morning Brief: 2 AI Updates — 2026-10-23",
@@ -775,28 +807,6 @@
       {
         "title": "OpenAI Python SDK: OpenAI Python SDK: v3.6.0",
         "url": "https://github.com/openai/openai-python/releases/tag/v3.6.0"
-      }
-    ],
-    "teacherNote": "Stay curious, stay current. Pick one item from today's brief and connect it to something you've already learned in the curriculum."
-  },
-  {
-    "id": "2026-08-28-morning-auto",
-    "date": "2026-08-28",
-    "title": "Morning Brief: 1 AI Update — 2026-08-28",
-    "summary": "Automated scan found 1 relevant AI engineering update in the last 36 hours. Review the highlights and linked sources to stay current.",
-    "type": "morning-brief",
-    "affectedLessons": [
-      15,
-      16,
-      31
-    ],
-    "highlights": [
-      "[LangGraph] LangGraph: langgraph-sdk==0.4.4"
-    ],
-    "sources": [
-      {
-        "title": "LangGraph: LangGraph: langgraph-sdk==0.4.4",
-        "url": "https://github.com/langchain-ai/langgraph/releases/tag/sdk%3D%3D0.4.4"
       }
     ],
     "teacherNote": "Stay curious, stay current. Pick one item from today's brief and connect it to something you've already learned in the curriculum."
