@@ -1,5 +1,44 @@
 [
   {
+    "id": "2026-10-31-morning-auto",
+    "date": "2026-10-31",
+    "title": "Morning Brief: 4 AI Updates — 2026-10-31",
+    "summary": "Automated scan found 4 relevant AI engineering updates in the last 36 hours. Review the highlights and linked sources to stay current.",
+    "type": "morning-brief",
+    "affectedLessons": [
+      15,
+      16,
+      31,
+      12,
+      26
+    ],
+    "highlights": [
+      "[OpenAI Python SDK] OpenAI Python SDK: v3.42.0",
+      "[LangGraph] LangGraph: langgraph==1.2.19",
+      "[LangGraph] LangGraph: langgraph-checkpoint-sqlite==3.1.3",
+      "[LangGraph] LangGraph: langgraph-sdk==0.4.11"
+    ],
+    "sources": [
+      {
+        "title": "OpenAI Python SDK: OpenAI Python SDK: v3.42.0",
+        "url": "https://github.com/openai/openai-python/releases/tag/v3.42.0"
+      },
+      {
+        "title": "LangGraph: LangGraph: langgraph==1.2.19",
+        "url": "https://github.com/langchain-ai/langgraph/releases/tag/1.2.19"
+      },
+      {
+        "title": "LangGraph: LangGraph: langgraph-checkpoint-sqlite==3.1.3",
+        "url": "https://github.com/langchain-ai/langgraph/releases/tag/checkpointsqlite%3D%3D3.1.3"
+      },
+      {
+        "title": "LangGraph: LangGraph: langgraph-sdk==0.4.11",
+        "url": "https://github.com/langchain-ai/langgraph/releases/tag/sdk%3D%3D0.4.11"
+      }
+    ],
+    "teacherNote": "Stay curious, stay current. Pick one item from today's brief and connect it to something you've already learned in the curriculum."
+  },
+  {
     "id": "2026-10-29-morning-auto",
     "date": "2026-10-29",
     "title": "Morning Brief: 1 AI Update — 2026-10-29",
@@ -814,32 +853,6 @@
       {
         "title": "OpenAI Python SDK: OpenAI Python SDK: v3.11.0",
         "url": "https://github.com/openai/openai-python/releases/tag/v3.11.0"
-      }
-    ],
-    "teacherNote": "Stay curious, stay current. Pick one item from today's brief and connect it to something you've already learned in the curriculum."
-  },
-  {
-    "id": "2026-09-09-morning-auto",
-    "date": "2026-09-09",
-    "title": "Morning Brief: 2 AI Updates — 2026-09-09",
-    "summary": "Automated scan found 2 relevant AI engineering updates in the last 36 hours. Review the highlights and linked sources to stay current.",
-    "type": "morning-brief",
-    "affectedLessons": [
-      5,
-      31
-    ],
-    "highlights": [
-      "[OpenAI Python SDK] OpenAI Python SDK: v3.10.0",
-      "[OpenAI Python SDK] OpenAI Python SDK: v3.9.0"
-    ],
-    "sources": [
-      {
-        "title": "OpenAI Python SDK: OpenAI Python SDK: v3.10.0",
-        "url": "https://github.com/openai/openai-python/releases/tag/v3.10.0"
-      },
-      {
-        "title": "OpenAI Python SDK: OpenAI Python SDK: v3.9.0",
-        "url": "https://github.com/openai/openai-python/releases/tag/v3.9.0"
       }
     ],
     "teacherNote": "Stay curious, stay current. Pick one item from today's brief and connect it to something you've already learned in the curriculum."
