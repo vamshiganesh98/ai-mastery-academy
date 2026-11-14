@@ -109,8 +109,13 @@
     "rss:aHR0cHM6Ly9vcGVuYWkuY29tL2J1c2lu",
     "gh:openai/openai-python:443409883",
     "gh:langchain-ai/langgraph:443330445",
-    "gh:langchain-ai/langgraph:443204282"
+    "gh:langchain-ai/langgraph:443204282",
+    "gh:langchain-ai/langgraph:444929380",
+    "gh:langchain-ai/langgraph:444925298",
+    "gh:langchain-ai/langgraph:444922724",
+    "gh:langchain-ai/langgraph:444920533",
+    "gh:openai/openai-python:444743749"
   ],
-  "lastRun": "2026-11-13T14:05:22.220Z",
-  "lastBriefDate": "2026-11-13"
+  "lastRun": "2026-11-14T13:07:06.783Z",
+  "lastBriefDate": "2026-11-14"
 }
