@@ -117,8 +117,11 @@
     "gh:openai/openai-python:444743749",
     "gh:openai/openai-python:449557773",
     "gh:openai/openai-python:449289001",
-    "gh:openai/openai-python:449046774"
+    "gh:openai/openai-python:449046774",
+    "gh:langchain-ai/langgraph:450920110",
+    "gh:langchain-ai/langgraph:450915663",
+    "gh:openai/openai-python:450225202"
   ],
-  "lastRun": "2026-11-18T15:16:15.561Z",
-  "lastBriefDate": "2026-11-18"
+  "lastRun": "2026-11-19T15:23:27.401Z",
+  "lastBriefDate": "2026-11-19"
 }
